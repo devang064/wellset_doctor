@@ -1,4 +1,4 @@
-import 'package:doctor_1/page1.dart';
+import 'package:doctor_1/ui/page1.dart';
 //import 'package:doctor/page3.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
